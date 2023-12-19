@@ -13,12 +13,6 @@
   </a>
 
   <h3 align="center">Spotify.com Clone</h3>
-
-  <p align="center">
-    I completed this project to improve my skills! <br />
-    <a href="https://friendly-pare-03979d.netlify.app/">Demo Site</a>
-    <br />
-  </p>
 </div>
 
 
@@ -44,18 +38,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-![getir com-clon-pw](https://user-images.githubusercontent.com/57539683/152556644-f57295ee-3f3d-4c83-956c-cfcbe3c763a6.png)
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
