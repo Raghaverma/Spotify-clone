@@ -129,9 +129,9 @@ _You must install the following:._
 <!-- CONTACT -->
 ## Contact
 
-Eren YALÇIN  - erenyalcn09@gmail.com
+Raghav Verma - raghav.verma.work@gmail.com
 
-Project Link: [https://github.com/ErenYalcn/spotify-react-clone](https://github.com/ErenYalcn/spotify-react-clone)
+Project Link: [https://github.com/Raghaverma/Spotify-clone](https://github.com/Raghaverma/Spotify-clone)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -154,10 +154,5 @@ Resources I used while developing the project:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/ErenYalcn/getir-clone/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/ErenYalcn/getir-clone/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/erenyalcn/
+[linkedin-url]: https://www.linkedin.com/in/raghaverma/
